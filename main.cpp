@@ -1,9 +1,8 @@
 #include <OpenGL/gl.h>
 #include <GLUT/glut.h>
 
-// Function to initialize OpenGL
 void init() {
-    glClearColor(1.0, 0.875, 0.894, 1.0); // Set the background color to black
+    glClearColor(1.0, 0.875, 0.894, 1.0); // Set the background color to light pink
 }
 
 // Function to display content on the window
